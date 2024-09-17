@@ -1,14 +1,14 @@
-- 👋 Hi, I’m Jyotiranjan **(@jyotiranjan-19)**
-- I have quite good experience in the IT industry nearly about 9 years. Throughout my journey, I have worked on multiple projects and software domains.
-- 👀 I’m interested in exploring **new programming languages, technologies, and problems faced in day-to-day work.**
-- 🌱 I’m currently focusing on
-   - Software Design patterns (HLD and LLD)
-   - Reactive Programing
-   - Microservice Patterns
-   - React JS
-   - Java 1.8 and Later version
-- 📫 How to reach me - **Reach out to me via LinkedIn or GitHub**
-- ⚡ Fun fact: I am not your boss, so we can be friends and explore things better which would be fruitful.
+- 👋 Hey there, I'm Jyotiranjan **(@jyotiranjan-19)**!
+- With almost 9 years of experience in the IT industry, I've had the chance to work on various projects and software domains.
+- 👀 I love diving into new programming languages, and technologies, and tackling the day-to-day challenges at work.
+- 🌱 Right now, I'm honing my skills in:
+    - Software Design patterns (HLD and LLD)
+    - Reactive Programing
+    - Microservice Patterns
+    - React JS
+    - Java 1.8 and Later version
+- 📫 Please feel free to contact me through LinkedIn or GitHub.
+- ⚡ And hey, here's a fun fact: I'm not your boss, so let's be friends and explore things together for better results!
 
 <!---
 jyotiranjan-19/jyotiranjan-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
